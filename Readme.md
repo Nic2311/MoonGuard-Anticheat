@@ -1,4 +1,5 @@
-![MoonGuard Systems](https://i.ibb.co/pjYw4rWm/Bildschirmfoto-2025-02-24-um-11-30-40.png)
+
+![MoonGuard]([https://i.ibb.co/FY7pYZR/Bild-2025-01-02-131954391.png](https://i.ibb.co/pjYw4rWm/Bildschirmfoto-2025-02-24-um-11-30-40.png))
 
 # 🌙 MoonGuard - Advanced FiveM Anti-Cheat Solution
 
