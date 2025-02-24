@@ -2,9 +2,11 @@
 
 # 🌙 MoonGuard - Advanced FiveM Anti-Cheat Solution
 
+## Discord: discord.gg/moonguard
+
 **MoonGuard** is the cutting-edge anti-cheat system designed specifically for **FiveM**. Our system offers unparalleled protection, keeping your servers secure and your players safe. From advanced detection algorithms to seamless integration, MoonGuard ensures your server is a cheat-free zone.
 
-Discord: discord.gg/moonguard
+
 
 ## 🚀 Key Features
 
